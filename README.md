@@ -28,6 +28,10 @@ Aprendizado por meio de aulas práticas durante 10 aulas promovido pela Alura no
 
 Neste programa, focamos nas primeiras ferramentas principais de qualquer linguagem de programação: variáveis, operadores, além das funções alert e prompt para trocar nossas primeiras mensagens na tela com o usuário.
 
+### Aula 2: Calculadora e laços condicionais no Javascript
+
+Neste programa, focamos nas primeiras ferramentas principais de qualquer linguagem de programação: variáveis, operadores, além das funções alert e prompt para trocar nossas primeiras mensagens na tela com o usuário.
+
 
 ---
 
