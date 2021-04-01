@@ -30,7 +30,7 @@ Neste programa, focamos nas primeiras ferramentas principais de qualquer linguag
 
 ### Aula 2: Calculadora e laços condicionais no Javascript
 
-Neste programa, focamos nas primeiras ferramentas principais de qualquer linguagem de programação: variáveis, operadores, além das funções alert e prompt para trocar nossas primeiras mensagens na tela com o usuário.
+Nesta programa, foi aprendido o que são laços condicionais if e else, como comparar um valor com outro para executar um código ou não. Além disso, aprendemos como escrever na tela com a função document.write.
 
 
 ---
