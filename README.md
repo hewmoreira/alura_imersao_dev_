@@ -32,6 +32,10 @@ Neste programa, focamos nas primeiras ferramentas principais de qualquer linguag
 
 Nesta programa, foi aprendido o que são laços condicionais if e else, como comparar um valor com outro para executar um código ou não. Além disso, aprendemos como escrever na tela com a função document.write.
 
+### Aula 3: Mentalista e números aleatórios
+
+Nesta terceira aula da Imersão Dev, criamos uma jogo de adivinhação, onde o programa escolhe um número aleatório e nós vamos tentar acertar.
+
 
 ---
 
