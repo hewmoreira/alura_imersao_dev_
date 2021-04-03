@@ -36,9 +36,15 @@ Nesta programa, foi aprendido o que são laços condicionais if e else, como com
 
 Nesta terceira aula da Imersão Dev, criamos uma jogo de adivinhação, onde o programa escolhe um número aleatório e nós vamos tentar acertar.
 
-### Aula 4: ALURAFLIX
+### Aula 4: AluraFlix
 
 Nesta aula vimos o array, um tipo de lista de elementos, assim como algumas ferramentas para alterarmos e trabalharmos com estas listas. Depois de criarmos uma lista, exibimos os pôsters de todos os nossos filmes preferidos na tela do navegador.
+
+### Aula 5: Refatorando o AluraFlix com funções
+
+NDurante a aula de hoje, vamos refatorar o projeto do AluraFlix da aula anterior para continuar integrando o HTML e o JavaScript, também fazendo com que as partes certas do programa funcionem exatamente no momento certo.
+
+Além do código executar somente quando queremos, também vamos ver formas diferentes de usar o JavaScript para acessar o HTML e deixar a visualização mais legal.
 
 ---
 
