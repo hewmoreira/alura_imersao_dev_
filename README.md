@@ -36,6 +36,9 @@ Nesta programa, foi aprendido o que são laços condicionais if e else, como com
 
 Nesta terceira aula da Imersão Dev, criamos uma jogo de adivinhação, onde o programa escolhe um número aleatório e nós vamos tentar acertar.
 
+### Aula 4: ALURAFLIX
+
+Nesta aula vimos o array, um tipo de lista de elementos, assim como algumas ferramentas para alterarmos e trabalharmos com estas listas. Depois de criarmos uma lista, exibimos os pôsters de todos os nossos filmes preferidos na tela do navegador.
 
 ---
 
