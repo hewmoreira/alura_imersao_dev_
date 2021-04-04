@@ -50,6 +50,10 @@ Além do código executar somente quando queremos, também vamos ver formas dife
 
 Neste programa, focamos em objetos no universo Javascript, criando uma tabela de classificação, onde manipulamos os valores, realizamos cálculos e incluímos no HTML.
 
+### Aula 7: Trunfo e lógica do jogo
+
+Neste programa, focamos no desenvolvimento da lógica do jogo do zero, desde a criação das cartas, sorteio das cartas, interações com usuário, e definindo um vencedor.
+
 ---
 
 ## 🛠 Tecnologias
