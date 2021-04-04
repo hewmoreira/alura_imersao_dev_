@@ -42,9 +42,13 @@ Nesta aula vimos o array, um tipo de lista de elementos, assim como algumas ferr
 
 ### Aula 5: Refatorando o AluraFlix com funções
 
-NDurante a aula de hoje, vamos refatorar o projeto do AluraFlix da aula anterior para continuar integrando o HTML e o JavaScript, também fazendo com que as partes certas do programa funcionem exatamente no momento certo.
+Durante a aula de hoje, vamos refatorar o projeto do AluraFlix da aula anterior para continuar integrando o HTML e o JavaScript, também fazendo com que as partes certas do programa funcionem exatamente no momento certo.
 
 Além do código executar somente quando queremos, também vamos ver formas diferentes de usar o JavaScript para acessar o HTML e deixar a visualização mais legal.
+
+### Aula 6: Tabela de classificação e objetos no Javascript
+
+Neste programa, focamos em objetos no universo Javascript, criando uma tabela de classificação, onde manipulamos os valores, realizamos cálculos e incluímos no HTML.
 
 ---
 
