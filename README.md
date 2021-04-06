@@ -98,6 +98,15 @@ Aprendizado por meio de aulas práticas durante 10 aulas promovido pela Alura no
 * Criar uma função que exibe a carta da máquina;
 * Exibir os atributos e pontos da carta da máquina.
 
+### Aula 9: Trunfo e lógica de rodadas com Javascript
+
+* Adicionamos mais cartas no jogo;
+* Criamos um placar com pontos do jogador e da máquina;
+* Desenvolvemos uma função que atualiza o placar do jogo;
+* Incluímos uma lógica para remover as cartas usadas do jogo a cada rodada;
+* Alteramos a forma de sortear as cartas do jogo;
+* Manipulamos os botões do jogo alterando a visibilidade.
+
 ---
 
 ## 🛠 Tecnologias
