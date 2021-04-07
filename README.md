@@ -107,6 +107,12 @@ Aprendizado por meio de aulas práticas durante 10 aulas promovido pela Alura no
 * Alteramos a forma de sortear as cartas do jogo;
 * Manipulamos os botões do jogo alterando a visibilidade.
 
+### Aula 10: Certificard
+
+* Criamos um certificado do zero;
+* Adicionamos o HTML para estruturar nossa página;
+* Estilizamos a página com CSS do zero.
+
 ---
 
 ## 🛠 Tecnologias
