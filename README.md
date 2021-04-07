@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-🚧 Imersão Dev_ 🚀 Em construção... 🚧
+✔️ Imersão Dev_ 🚀 Concluído! ✔️
 </p>
 
 
